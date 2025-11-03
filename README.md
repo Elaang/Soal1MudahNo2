@@ -19,5 +19,5 @@ Simple. Just like that. and BOOM!
 
 here's the output program image:
 
-![BruteForce](outputs1n2v0)
-![Single Target](outputs1n2v1)
+![BruteForce](outputs1n2v0.png)
+![Single Target](outputs1n2v1.png)
